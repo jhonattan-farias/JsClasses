@@ -1,5 +1,5 @@
 //O while significa (enquanto). O while é um uma estrutura de repetição
-//parecida com o for. O while recebe um valor em seus parâmetro. 'Enquanto' aquele valor
+//parecida com o for. O while recebe um valor em seus parâmetros. 'Enquanto' aquele valor
 //for true, ele executa a função dentro do while. Exemplo
 let i = 20
 
