@@ -1,13 +1,14 @@
-const darNota = (studentNote) => {
+const darNota = (studentNote) => {    
+let a = studentNote >= 90
 
     switch(studentNote){
 
-        case studentNote >= 90:
+        case studentNote == a :
         console.log('A')
         break;
-
-
+        
         default:
+            console.log('is here')
             break;
     }
 }
